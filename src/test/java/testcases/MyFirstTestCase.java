@@ -26,7 +26,7 @@ public class MyFirstTestCase {
 		String output = driver.findElement(By.id("CalculatorResults")).getAttribute("Name");
 		
 		System.out.println("The result is " + output);
-		//dfgsdiughidsfgdf
+		//updated
 
 	}
 
